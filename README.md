@@ -1,5 +1,5 @@
 # FaceMaskDetection
-[中文版](README-zh.md) | English version
+
 
 ### We open source all the popular deep learning frameworks' model and inference code to do face mask detection.
 
